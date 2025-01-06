@@ -13,7 +13,7 @@ A Python utility for downloading media from X (formerly Twitter) using the Graph
 2. Install dependencies:
 
 ```sh
-pip install -r requirements.txt
+uv pip install -r pyproject.toml
 ```
 
 ## Usage

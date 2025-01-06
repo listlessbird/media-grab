@@ -1,9 +1,7 @@
 [project]
 name = "media-grab"
 version = "0.1.0"
-description = "Add your description here"
+description = "A Python utility for downloading media from X (formerly Twitter) using the GraphQL API."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = [
-    "requests>=2.32.3",
-]
+dependencies = ["requests>=2.32.3"]
